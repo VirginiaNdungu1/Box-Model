@@ -1,0 +1,12 @@
+.sidebar {
+  width: 30%;
+  float:left;
+  background-color: yellow;
+}
+.test-box{
+  border-left: 4px solid red;
+  border-top: 6px solid orange;
+  padding: 6px;
+  margin: 20px
+  width: 40%;
+}
